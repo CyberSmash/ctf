@@ -3,4 +3,6 @@
 **/.gdb_history
 **/core
 **/tunnel.sh
-**/*.swp
+**/.*.swp
+**/*.o
+**/a.out
