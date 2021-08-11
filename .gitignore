@@ -1,0 +1,6 @@
+**/peda-session*.txt
+**/*.swp
+**/.gdb_history
+**/core
+**/tunnel.sh
+**/*.swp
